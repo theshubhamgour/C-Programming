@@ -1,9 +1,6 @@
-
-
-
-
-
-
+'''
+Author: Shubham Gour
+'''
 
 /* This includes the general introduction to C programming language all the theory part have been tried to cover and the reamaining will be present on the next file
 name of file general.c */
